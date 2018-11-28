@@ -112,7 +112,7 @@ The following table shows the gateway types and the estimated aggregate throughp
 
 *Note (1)* - VPN throughput isn't a guaranteed throughput for cross-premises connections across the Internet. It's the maximum possible throughput measurement.  
 *Note (2)* - Max tunnels is the total per Azure Stack deployment for ALL subscriptions.  
-*Note (3)* - BGP routing isn't supported for the Basic SKU.
+*Note (3)* - BGP routing isn't supported for the Basic SKU..
 
 ## Next steps
 
